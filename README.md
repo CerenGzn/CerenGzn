@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Ceren 👋
 
-<!--
-**CerenGzn/CerenGzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Data Science, AI & Digital Business (Berlin)  
+💻 Interested in AI Automation, Data Systems & Backend Development  
 
-Here are some ideas to get you started:
+## Skills
+- Python, JavaScript
+- Data Processing (Pandas, NumPy)
+- REST APIs, Backend Systems
+- SQL, PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- AI Workflow Automation
+- Data Pipeline Dashboard
+- Scalable Backend API
